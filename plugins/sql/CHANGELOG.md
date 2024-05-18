@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.0.0-beta.5]
+
+- [`a940ef62`](https://github.com/tauri-apps/plugins-workspace/commit/a940ef6250d674c4160bbf5207d3df248b414d0a)([#1305](https://github.com/tauri-apps/plugins-workspace/pull/1305)) Preserve column order from SELECT query with indexmap
+
 ## \[2.0.0-beta.3]
 
 - [`bd1ed590`](https://github.com/tauri-apps/plugins-workspace/commit/bd1ed5903ffcce5500310dac1e59e8c67674ef1e)([#1237](https://github.com/tauri-apps/plugins-workspace/pull/1237)) Update to tauri beta.17.

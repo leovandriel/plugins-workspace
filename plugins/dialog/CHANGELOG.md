@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.0.0-beta.8]
+
+- [`cd57dcdf`](https://github.com/tauri-apps/plugins-workspace/commit/cd57dcdf049d759d06f5840b85e28f109f357f9a)([#1295](https://github.com/tauri-apps/plugins-workspace/pull/1295)) Fill file `len` and `modified_at` fields of `FileResponse` when using the open dialog.
+
 ## \[2.0.0-beta.3]
 
 - [`bd1ed590`](https://github.com/tauri-apps/plugins-workspace/commit/bd1ed5903ffcce5500310dac1e59e8c67674ef1e)([#1237](https://github.com/tauri-apps/plugins-workspace/pull/1237)) Update to tauri beta.17.
@@ -135,5 +139,5 @@
   pull/371)) First v2 alpha release!
   kspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
   pull/371)) First v2 alpha release!
-lpha release!
+  lpha release!
   pull/371)) First v2 alpha release!

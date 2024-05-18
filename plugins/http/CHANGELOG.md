@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-beta.8]
+
+- [`58330f9e`](https://github.com/tauri-apps/plugins-workspace/commit/58330f9ec1d631f95de7f790076c5417cbf35733)([#1192](https://github.com/tauri-apps/plugins-workspace/pull/1192)) Enable cookies store feature flag by default.
+- [`58330f9e`](https://github.com/tauri-apps/plugins-workspace/commit/58330f9ec1d631f95de7f790076c5417cbf35733)([#1192](https://github.com/tauri-apps/plugins-workspace/pull/1192)) Set the request origin to the current webview url.
+- [`290616d8`](https://github.com/tauri-apps/plugins-workspace/commit/290616d8e38082daf9d6825337c6fc19bc3f41e3)([#1325](https://github.com/tauri-apps/plugins-workspace/pull/1325)) Fixed an issue with the http plugin when it was used with tauri v2 beta.19.
+
 ## \[2.0.0-beta.3]
 
 - [`bd1ed590`](https://github.com/tauri-apps/plugins-workspace/commit/bd1ed5903ffcce5500310dac1e59e8c67674ef1e)([#1237](https://github.com/tauri-apps/plugins-workspace/pull/1237)) Update to tauri beta.17.
@@ -141,6 +147,6 @@
   371\)) First v2 alpha release!
   !
   371\)) First v2 alpha release!
-lpha release!
+  lpha release!
   !
   371\)) First v2 alpha release!
